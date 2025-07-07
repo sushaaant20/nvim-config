@@ -1,5 +1,5 @@
 ````markdown
-![Preview](screeshot.png)
+[![Preview](screeshot.png)](https://github.com/sushaaant20/nvim-config/blob/main/screeshot.png)
 ![Usage](use.png)
 
 # 🧠 My Neovim Setup
