@@ -1,6 +1,6 @@
 ````markdown
-![Neovim Preview](screeshot.png)
-![Neovim Preview](use.png)
+![Preview](screeshot.png)
+![Usage](use.png)
 
 # 🧠 My Neovim Setup
 
