@@ -1,4 +1,7 @@
 ````markdown
+![Neovim Setup Preview](screenshot.png)
+![Neovim Setup Preview](use.png)
+
 # 🧠 My Neovim Setup
 
 This is my custom, full-featured Neovim configuration built for smooth development in **Python**, **Lua**, and general-purpose coding. It uses a dark aesthetic (`tokyonight`), Treesitter syntax, LSP support, and modern plugins.
@@ -115,12 +118,6 @@ Feel free to fork and customize it. Give credit if you use it publicly. 🙏
 🐙 [GitHub: sushaaant20](https://github.com/sushaaant20)
 
 ---
-
-## 🧪 Coming Soon
-
-* `restore.sh` script for auto setup
-* Preview screenshots or terminal demo
-* Plugin explanations
 
 ````
 
